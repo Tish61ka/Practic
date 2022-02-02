@@ -10892,3 +10892,7 @@ body {
     margin-top: 7rem;
   }
 }
+.text_shadow{
+  text-shadow: black 0.5px 0.5px 0, black -0.5px -0.5px 0, 
+                 black -0.5px 0.5px 0, black 0.5px -0.5px 0;
+}
